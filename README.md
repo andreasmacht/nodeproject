@@ -1,2 +1,0 @@
-# nodeproject
-Node project
